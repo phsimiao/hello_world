@@ -1,3 +1,3 @@
 # hello_world
-just another repository
+just another repositories
 Paulo Henrique
